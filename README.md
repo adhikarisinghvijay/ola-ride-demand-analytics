@@ -26,7 +26,7 @@ Key Findings: Insight	Result
 -Peak-hour concentration	Top 3 peak hours drove ~13% of total ride volume
 -Weather impact	Clear-weather days: 348K rides vs. light-rain days: 327K rides (~6.4% difference)
 
-
+![OLA Dashboard](ExecutiveDashboard.png)
 
 
 
