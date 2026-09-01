@@ -30,8 +30,29 @@ Business takeaway:
 Registered riders are the core revenue driver, suggesting retention programs would have outsized impact. Peak-hour concentration and weather sensitivity both point to opportunities for dynamic driver allocation and demand forecasting.
 
 Dashboard Preview:
+Executive Dashborad:
 
 ![OLA Dashboard](Executive-Dashboard.png)
+
+
+Time Analysis Dashboard:
+
+
+![OLA Dashboard](Time-Analysis.png)
+
+
+Weather Analysis Dashboard:
+
+
+![OLA Dashboard](Weather-Analysis.png)
+
+
+Top 10 Analysis:
+
+
+![OLA Dashboard](Top-10-Analysis.png)
+
+
 
 
 
